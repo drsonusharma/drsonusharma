@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="highlight">
+<div style="background-color: #f7f7f7; padding: 20px;"><p align="center">By continuing to browse the site you are agreeing to our <a href="https://www.aboutcookies.org/" target="_blank" rel="nofollow">use of cookies</a> and <a href="https://drsonusharma.com/legal.html" target="_blank">policies</a>.<br >This site contains affiliate links to products. We may receive a commission for purchases made through these links.</p></div><br>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  <div style="background-color: #f7f7f7; padding: 20px;"><p align="center">
+Keep in mind that we may receive commissions when you click our links and make purchases. <br >However, this does not impact our reviews and comparisons. We try our best to keep things fair and balanced, in order to help you make the best choice for you.</p></div>
+</div>
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
