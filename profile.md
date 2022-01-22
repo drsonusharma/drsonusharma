@@ -6,18 +6,33 @@ title: Profile
 ## Dr. Sonu Sharma
 ### Ph.D. (Mechanical Engineering) (Topic-Analysis, Optimization and Design of a Modified Savonius Rotor)
 ### 7+ Years experience
+### 3+ Years experience Post Ph.D.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=2DM2wSkAAAAJ)
 
-[ResearchGate Profile](https://www.researchgate.net/profile/Sonu_Sharma20)
+[ResearchGate Profile](https://www.researchgate.net/profile/Sonu-Sharma-2)
 
 [Orcid Profile](https://orcid.org/0000-0002-7621-8028)
 
 [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56227602900)
+Scopus Author Identifier-56227602900
 
-[Mendeley Profile](https://www.mendeley.com/profiles/sonu-sharma10/)
+[Publons Profile](https://publons.com/researcher/3913101/sonu-sharma/)
+Web of Science ResearcherID-AAZ-5477-2020
 
-### Education
+## Reviewer
+- Outstanding reviewer
+  Journal: Energy Conversion and Management
+  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
+  SCImago Journal Rank (SJR): 2.74)
+  Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
+
+## Experience
+- Presently working as Assistant Professor from 24-06-2019 in Chitkara University, Punjab
+- Worked as Assistant Professor from 28-08-2017 to 18-06-2019 in G.D. Goenka University, Gurugram (1 Year 9 Months 22 Days). Also taught students of Lancaster University at G.D.Goenka World Institute during 2018-2019
+- Worked as Assistant Professor from 17-09-2012 to 16-07-2015 in Amity University, Noida (2 years, 10 months)
+
+## Education
 -Ph.D. (Mechanical Engineering) from National Institute of Technology, Hamirpur in November, 2018
 
 -M.Tech. (Mechanical Engineering) with specialization in Computational Fluid Dynamics and Heat Transfer from National Institute of Technology, Hamirpur in August, 2009
@@ -28,46 +43,34 @@ title: Profile
 
 -10th from C.B.S.E. in 2001
 
-### Experience
--Presently working as Assistant Professor from August 28, 2017 in G.D. Goenka University, Gurugram
+## Research Papers
+- Performance improvement of Savonius rotor using multiple quarter blades - A CFD investigation
+  Journal: Energy Conversion and Management
+  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
+  SCImago Journal Rank (SJR): 2.74)
+  Article Link: https://doi.org/10.1016/j.enconman.2016.08.087
+  Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
+- CFD investigation to quantify the eect of layered multiple miniature blades on the performance of Savonius rotor
+  Journal: Energy Conversion and Management
+  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
+  SCImago Journal Rank (SJR): 2.74)
+  Article Link: https://doi.org/10.1016/j.enconman.2016.08.087
+  Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
 
--Worked as Assistant Professor from September 17, 2012 to July 16, 2015 in Amity University, Noida
-
-### Research Papers
--[Performance improvement of Savonius rotor using multiple quarter blades - A CFD investigation, in Energy Conversion and Management-An International Journal (SCIE, Impact Factor-6.377)](https://doi.org/10.1016/j.enconman.2016.08.087)
-
--[CFD investigation to quantify the effect of layered multiple miniature blades on the performance of Savonius rotor, in Energy Conversion and Management-An International Journal (SCIE, Impact Factor-6.377)](https://doi.org/10.1016/j.enconman.2017.04.059)
-
-### Reviewer
--[Reviewer of Energy-The International Journal (SCI)](https://www.journals.elsevier.com/energy)
-
--[Reviewer of Energy Conversion and Management-An International Journal (SCIE)](https://www.journals.elsevier.com/energy-conversion-and-management)
-
-### Skills
--Linux
-
--Latex
-
--LibreOffice
-
--FreeCAD
-
--Salome Platform
-
--OpenFOAM
-
--C++
-
--SolidWorks
-
--Ansys Design Modeller
-
--Ansys Meshing
-
--Ansys CFX
-
--Ansys Structural
-
--Jupyter Notebook
-
--Jekyll
+## Skills
+- Linux
+- Latex
+- LibreOffice
+- FreeCAD
+- Salome
+- OpenFOAM
+- C++
+- SolidWorks
+- Onshape
+- Onscale
+- Simscale
+- Ansys Meshing
+- Ansys CFX
+- Ansys Structural
+- Jupyter Notebook
+- Jekyll
