@@ -1,0 +1,20 @@
+FreeCAD Guide
+Salome Guide
+OpenFOAM Guide
+Programming Guide
+Linux Guide
+CFD Guide
+Ph.D. Guide
+Masters Guide
+Latex Guide
+Ethics in Research
+Literature Review Guide
+Validation and Pilot Study Guide
+Research Paper Writing Guide
+Thesis Writing Guide
+CV Making Guide
+Entrepreneurship Resources
+Logo and Media Design for Startups
+Web Design Guide for Startups
+Online Marketing Guide for Startups
+Installation Guides

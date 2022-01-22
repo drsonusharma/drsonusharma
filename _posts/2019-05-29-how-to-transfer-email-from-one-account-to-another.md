@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Transfer Email from One Account to Another?
-category: [tech]
+category: [howto]
 ---
 A step by step procedure to transfer specific emails from one email account to another.
 

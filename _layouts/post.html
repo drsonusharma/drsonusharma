@@ -3,7 +3,6 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 <div class="highlight">
-<div style="background-color: #f7f7f7; padding: 20px;"><p align="center">By continuing to browse the site you are agreeing to our <a href="https://www.aboutcookies.org/" target="_blank" rel="nofollow">use of cookies</a> and <a href="https://drsonusharma.com/legal.html" target="_blank">policies</a>.<br >This site contains affiliate links to products. We may receive a commission for purchases made through these links.</p></div><br>
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -19,12 +18,19 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-  <div style="background-color: #f7f7f7; padding: 20px;"><p align="center">
-Keep in mind that we may receive commissions when you click our links and make purchases. <br >However, this does not impact our reviews and comparisons. We try our best to keep things fair and balanced, in order to help you make the best choice for you.</p></div>
-</div>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<h2>Important Note</h2>
+<p style="padding: 10px; border: 2px solid #ff5500;">
+We hope this article helped you. If you have any suggestions/queries regarding this article, or if you need to contact us, then email at "info@drsonusharma.com".
+<br><br>Also, please like, share, and follow on our social media pages, "<a href="https://www.facebook.com/drssphd" target="_blank" ref="nofollow">Facebook</a>", "<a href="https://twitter.com/drssphd" target="_blank" ref="nofollow">Twitter</a>", "<a href="https://www.linkedin.com/company/drssphd" target="_blank" ref="nofollow">Linkedin</a>".
+<br><br><a href="https://drsonusharma.com/ad.html/" target="_blank" ref="nofollow">Affiliate Disclosure</a>
+<br>This site contains affiliate links to products. We may receive a commission for purchases made through these links.
+Keep in mind that we may receive commissions when you click our links and make purchases. However, this does not impact our reviews and comparisons. We try our best to keep things fair and balanced, in order to help you make the best choice for you.
+<br><br><a href="https://drsonusharma.com/legal.html" target="_blank" ref="nofollow">Our Policies</a>
+<br>By continuing to browse the site you are agreeing to our <a href="https://www.aboutcookies.org/" target="_blank" rel="nofollow">use of cookies</a> and <a href="https://drsonusharma.com/legal.html" target="_blank">policies</a>.</p>
