@@ -33,15 +33,15 @@ Web of Science ResearcherID-AAZ-5477-2020
 - Worked as Assistant Professor from 17-09-2012 to 16-07-2015 in Amity University, Noida (2 years, 10 months)
 
 ## Education
--Ph.D. (Mechanical Engineering) from National Institute of Technology, Hamirpur in November, 2018
+- Ph.D. (Mechanical Engineering) from National Institute of Technology, Hamirpur in November, 2018
 
--M.Tech. (Mechanical Engineering) with specialization in Computational Fluid Dynamics and Heat Transfer from National Institute of Technology, Hamirpur in August, 2009
+- M.Tech. (Mechanical Engineering) with specialization in Computational Fluid Dynamics and Heat Transfer from National Institute of Technology, Hamirpur in August, 2009
 
--B.Tech. (Mechanical and Automation Engineering) from Guru Gobind Singh Indraprastha University, Delhi in June, 2007
+- B.Tech. (Mechanical and Automation Engineering) from Guru Gobind Singh Indraprastha University, Delhi in June, 2007
 
--12th from C.B.S.E. in 2003 
+- 12th from C.B.S.E. in 2003 
 
--10th from C.B.S.E. in 2001
+- 10th from C.B.S.E. in 2001
 
 ## Research Papers
 - Performance improvement of Savonius rotor using multiple quarter blades - A CFD investigation
