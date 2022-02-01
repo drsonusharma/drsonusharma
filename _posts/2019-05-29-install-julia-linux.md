@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Install Latest Julia Version on Linux?
-category: [programming]
+category: [howto]
 ---
 Step-by-Step easy to follow procedure to install Julia programming language on Ubuntu and other Linux based operating systems.
 

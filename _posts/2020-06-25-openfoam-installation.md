@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenFOAM Installation
-category: [openfoam]
+category: [howto]
 ---
 If you are unable to install OpenFOAM in Ubuntu, then you are at the right place.
 
