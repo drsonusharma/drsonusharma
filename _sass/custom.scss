@@ -1,5 +1,4 @@
-pre, code { font-size: 15px; border: 1px solid #ff5500; border-radius: 3px; background-color: #fff; }
-
+pre, code {font-size: 15px;border: 1px solid #aaaaaa;border-radius: 5px;background-color: #ffffff;}
 h2 {
 color: #000000;
 font-weight: bold;
@@ -12,71 +11,15 @@ padding-left: 20px;
 padding-right: 20px;
 padding-top: 10px;
 padding-bottom: 10px;
-border-left: 0px solid #ff5500;
-background-color: #ff5500;
+border-left: 0px solid #aaaaaa;
+background-color: #aaaaaa;
 color: #ffffff
 }
-
-img { max-width: 100%; vertical-align: middle; border: 1px solid #ff5500;}
-
-a:link
-{
-    font-weight: bold;
-    color: #ff5500;
-    text-decoration: none;
-}
-
-a:visited { color: #ff5500; }
-
-a:hover { color: #ffaa00; text-decoration: underline; }
-
-.site-header { border-top: 5px solid #ffaa00; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; background-color: #ff5500;}
-
-.site-nav .page-link { color: #000000; line-height: 1.5; }
-
-.site-footer { border-top: 5px solid #ff5500; padding: 30px 0; background-color: #dddddd;}
-
-.sbribbon
-{
-background:#ff5500;
-box-shadow:0px 4px 0px rgba(0,0,0,0.05);
-text-align:center
-}
-
-.sbribbon .linkribbon
-{
-color:#ffffff;
-display:block;
-line-height:32px;
-padding:20px 0;
-text-decoration:none
-}
-
-.sbribbon .capribbon,.sbribbon .sepribbon
-{
-font-size:22px;
-font-weight:700;
-text-shadow:2px 2px 0px rgba(0,0,0,0.2)
-}
-
-.sbribbon .sepribbon
-{
-padding:0 23px;
-font-weight:400
-}
-
-.sbribbon .lowerribbon
-{
-font-weight:400;
-font-size:16px;
-text-shadow:1px 1px 0px rgba(0,0,0,0.2)
-}
-
-.sbribbon svg
-{
-fill:#ffffff;
-margin-left:16px;
-width:18px;
-height:18px;
-vertical-align:middle
-}
+img {max-width: 100%;vertical-align: middle;border: 1px solid #aaaaaa;border-radius: 5px;padding: 5px}
+a:link{font-weight: bold;color: #000000;text-decoration: underline;}
+a:visited {color: #aaaaaa;text-decoration: underline;}
+a:hover {color: #ffaa00;text-decoration: underline;}
+.site-header {border-top: 5px solid #000000;border-bottom: 1px solid #aaaaaa;min-height: 56px;position: relative;background-color: #ffffff;}
+.site-nav .page-link {color: #000000;line-height: 1.5;}
+.site-footer {border-top: 5px solid #aaaaaa;padding: 30px 0;background-color: #eeeeee;}
+.boxit {padding: 10px;border: 2px solid #aaaaaa;border-radius: 5px;}
