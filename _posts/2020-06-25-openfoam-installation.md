@@ -3,6 +3,8 @@ layout: post
 title: OpenFOAM Installation
 category: [howto]
 ---
+![education-research](/assets/featured/education-research.png "education-research")
+
 If you are unable to install OpenFOAM in Ubuntu, then you are at the right place.
 
 The installation of OpenFOAM is pretty straight forward in Ubuntu, you just need to follow the instructions [here](https://openfoam.org/download/).

@@ -19,6 +19,7 @@ header_pages:
 - profile.md
 - courses.md
 - blog.md
+- contact.md
 - legal.md
 
 paginate: 5

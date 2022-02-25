@@ -3,6 +3,8 @@ layout: post
 title: 'Fix the Error "debconf: DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable"'
 category: [howto]
 ---
+![linux](/assets/featured/linux.png "linux")
+
 You have encountered the above error in Debian or Debian based GNU/Linux Distribution.
 
 This may cause problems like:

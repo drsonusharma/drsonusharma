@@ -2,7 +2,6 @@
 layout: page
 title: Profile
 ---
-
 ## Dr. Sonu Sharma
 ### Ph.D. (Mechanical Engineering) (Topic-Analysis, Optimization and Design of a Modified Savonius Rotor)
 ### 7+ Years experience
