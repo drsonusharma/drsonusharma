@@ -21,9 +21,11 @@ Web of Science ResearcherID-AAZ-5477-2020
 
 ## Reviewer
 - Outstanding reviewer
+  
   Journal: Energy Conversion and Management
-  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
-  SCImago Journal Rank (SJR): 2.74)
+  
+  Insights: SCIE, Impact Factor: 11.533, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.83)
+  
   Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
 
 ## Experience
@@ -44,17 +46,24 @@ Web of Science ResearcherID-AAZ-5477-2020
 
 ## Research Papers
 - Performance improvement of Savonius rotor using multiple quarter blades - A CFD investigation
+  
   Journal: Energy Conversion and Management
-  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
-  SCImago Journal Rank (SJR): 2.74)
-  Article Link: https://doi.org/10.1016/j.enconman.2016.08.087
+  
+  Insights: SCIE, Impact Factor: 11.533, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.83)
+  
   Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
-- CFD investigation to quantify the eect of layered multiple miniature blades on the performance of Savonius rotor
+  
+  Article Link: https://doi.org/10.1016/j.enconman.2016.08.087
+  
+- CFD investigation to quantify the effect of layered multiple miniature blades on the performance of Savonius rotor
+  
   Journal: Energy Conversion and Management
-  Insights: SCIE, Impact Factor: 9.709, Q1: Scimagojr,
-  SCImago Journal Rank (SJR): 2.74)
-  Article Link: https://doi.org/10.1016/j.enconman.2016.08.087
+  
+  Insights: SCIE, Impact Factor: 11.533, Q1: Scimagojr, SCImago Journal Rank (SJR: 2.83)
+  
   Journal Insights: https://journalinsights.elsevier.com/journals/0196-8904
+  
+  Article Link: https://doi.org/10.1016/j.enconman.2017.04.059
 
 ## Skills
 - Linux
